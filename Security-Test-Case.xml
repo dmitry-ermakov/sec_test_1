@@ -429,11 +429,11 @@ exists(//ns1:loginResponse[1]/ns1:loginReturn[1])</path>
     </con:testStepSecurityScan>
   </con:testStepSecurityTest>
   <con:properties>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop1</con:name>
       <con:value>val1</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop2</con:name>
       <con:value>val2c</con:value>
     </con:property>
@@ -457,19 +457,19 @@ exists(//ns1:loginResponse[1]/ns1:loginReturn[1])</path>
       <con:name>prop7</con:name>
       <con:value>val7</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop8</con:name>
       <con:value>val8</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop9</con:name>
       <con:value>val9</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop10</con:name>
       <con:value>val10cc</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop11</con:name>
       <con:value>val11cc</con:value>
     </con:property>
@@ -481,15 +481,15 @@ exists(//ns1:loginResponse[1]/ns1:loginReturn[1])</path>
       <con:name>prop13</con:name>
       <con:value>val13</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop14</con:name>
       <con:value>val14</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop15</con:name>
       <con:value>val15cc</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop16</con:name>
       <con:value>val16</con:value>
     </con:property>
@@ -501,7 +501,7 @@ exists(//ns1:loginResponse[1]/ns1:loginReturn[1])</path>
       <con:name>prop18</con:name>
       <con:value>val18</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop19</con:name>
       <con:value>val19c</con:value>
     </con:property>
@@ -521,23 +521,23 @@ exists(//ns1:loginResponse[1]/ns1:loginReturn[1])</path>
       <con:name>prop23</con:name>
       <con:value>val23</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop24</con:name>
       <con:value>val24</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop25</con:name>
       <con:value>val25</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop26</con:name>
       <con:value>val26cc</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop27</con:name>
       <con:value>val27cc</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop28</con:name>
       <con:value>val28</con:value>
     </con:property>
@@ -549,7 +549,7 @@ exists(//ns1:loginResponse[1]/ns1:loginReturn[1])</path>
       <con:name>prop30</con:name>
       <con:value>val30</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop31</con:name>
       <con:value>val31c</con:value>
     </con:property>
