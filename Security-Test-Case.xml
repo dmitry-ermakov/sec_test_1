@@ -473,91 +473,91 @@ exists(//ns1:loginResponse[1]/ns1:loginReturn[1])</path>
       <con:name>prop11</con:name>
       <con:value>val11</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop12</con:name>
       <con:value>val12</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop13</con:name>
       <con:value>val13</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop14</con:name>
       <con:value>val14</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop15</con:name>
       <con:value>val15</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop16</con:name>
       <con:value>val16</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop17</con:name>
       <con:value>val17</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop18</con:name>
       <con:value>val18</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop19</con:name>
       <con:value>val19</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop20</con:name>
       <con:value>val20</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop21</con:name>
       <con:value>val21</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop22</con:name>
       <con:value>val22</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop23</con:name>
       <con:value>val23</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop24</con:name>
       <con:value>val24</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop25</con:name>
       <con:value>val25</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop26</con:name>
       <con:value>val26</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop27</con:name>
       <con:value>val27</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop28</con:name>
       <con:value>val28</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop29</con:name>
       <con:value>val29</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop30</con:name>
       <con:value>val30</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop31</con:name>
       <con:value>val31</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop32</con:name>
       <con:value>val32</con:value>
     </con:property>
-    <con:property>
+    <con:property userSpecific="true">
       <con:name>prop33</con:name>
       <con:value>val33</con:value>
     </con:property>

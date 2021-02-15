@@ -65,6 +65,7 @@
   <con:entry key="Add Settings" value="false"/>
   <con:entry key="Endpoint" value=""/>
 </xml-fragment>]]></con:setting>
+    <con:setting id="d5a625d5-c048-4fd1-b209-1527da3d11a6fileName">Security-Sample-Project</con:setting>
   </con:settings>
   <con:requirements>
     <con:requirement>
