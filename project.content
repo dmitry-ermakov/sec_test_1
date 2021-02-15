@@ -1,0 +1,7 @@
+SecurityProjectSoapBinding\login.xml
+SecurityProjectSoapBinding\logout.xml
+SecurityProjectSoapBinding\guestBookPost.xml
+SecurityProjectSoapBinding\getGuestBookPost.xml
+Security-Test-Case.xml
+Test-Suite\Security-Test-Case.xml
+Security-Virt\login.xml
